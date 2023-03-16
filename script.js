@@ -1,4 +1,3 @@
-
 window.onload = () => {
     tasks.forEach(item => item.state = "show");
     Task.display();
